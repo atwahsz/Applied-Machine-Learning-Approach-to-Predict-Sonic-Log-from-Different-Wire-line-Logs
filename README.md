@@ -1,6 +1,6 @@
 ﻿> Note: The Data used in here is public but owned by U.S. Department of Energy,  Office of Fossil Energy
 
-# Applied Machine Learning Approach For Sonic
+# Applied Machine Learning Approach For Sonic Log Prediction
 
 The goal of the study below is to use machine learning algorathems in order to train different set of wireline logs to predict DT the sonic log.
 
