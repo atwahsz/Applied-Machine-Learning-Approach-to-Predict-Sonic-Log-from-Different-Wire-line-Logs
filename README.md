@@ -19,7 +19,7 @@ The realm of petrophysics is still underdevelopment , studying statsitcal predic
 3. Can Predicted DT be used in Seismic corrections?
 ## Results
 My post in linked in summarizes the main findings of the expirement.
-  * [**Applied Machine Learning Approach to Predict Sonic Log from Different Wireline Logs**](https://xxxxxxxxxx)
+  * [**Applied Machine Learning Approach to Predict Sonic Log from Different Wireline Logs**](https://www.linkedin.com/pulse/applied-machine-learning-approach-predict-sonic-log-from-al-atwah)
 
 ## Licensing and Acknowledgement
 The datasets used in this analysis are publicly relased by by U.S. Department of Energy,  Office of Fossil Energy. 
